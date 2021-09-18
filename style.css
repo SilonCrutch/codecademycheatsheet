@@ -1,0 +1,38 @@
+code {
+    font-family: monospace;
+    background-color: #0D0208;
+    color: #03A062;
+}
+
+table {
+    border: solid blue;
+    border-collapse: collapse;
+    margin: 0 auto;
+    width: 650px;
+    background-color: blanchedalmond;
+}
+
+tr, td, th {
+    border: solid blue;
+    padding: 2.5px 5px 2.5px 2.5px;
+}
+
+thead {
+    background-color: orangered;
+}
+
+tbody td {
+    color: red;
+}
+
+h3 {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+body {
+    background-color: silver;
+}
